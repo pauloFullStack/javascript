@@ -1,0 +1,1 @@
+nome.length === 0 && !nome.trim()
